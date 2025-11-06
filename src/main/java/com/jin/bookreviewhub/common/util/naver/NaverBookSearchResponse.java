@@ -44,8 +44,8 @@ public class NaverBookSearchResponse {
         @JsonProperty("publisher")
         private String publisher;
 
-        @JsonProperty("pubdate")
-        private String pubdate;
+        @JsonProperty("pubDate")
+        private String pubDate;
 
         @JsonProperty("isbn")
         private String isbn;
